@@ -40,4 +40,4 @@ I build high-performance distributed systems, automated cloud infrastructure, an
 
 - 🌐 **Location:** Germany
 - 🗣 **Languages:** German (Native), English (Fluent)
-- ✉️ **Email:** [arne.sandberg@pcg.io](#) *arne.sandberg@pcg.io*
+- ✉️ **Email:** [arne.sandberg@pcg.io](#)
