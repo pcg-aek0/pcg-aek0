@@ -13,8 +13,9 @@ I build high-performance distributed systems, automated cloud infrastructure, an
 | **Frontend** | SolidJS / SolidStart, React, Next.js, Angular |
 | **Backend & APIs** | Node.js, Express, Gin, NestJS, gRPC, REST, SSE |
 | **Cloud-Native & Ops** | Kubernetes, ArgoCD, Docker, Terraform, Pulumi, Crossplane, DRA-Driver/Plugin  |
-| **Networking & Security** | envoy, eBPF (Cilium, Tetragon), SDN, OPA, SpiceDB, |
-| **OIDC & Oauth2 (Authn)** | Auth0, cidass, ory, Keycloak |
+| **Networking** | nginx, CNIs, traefik, eBPF (Cilium, Tetragon), envoy, Istio, SDN |
+| **Authn** | Auth0, cidass, ory, Keycloak |
+| **Authz** | OPA, SpiceDB |
 | **Data & Messaging** | PostgreSQL, CockroachDB, YugabyteDB, Kafka, NATS, MQTT, MongoDB, Redis |
 | **Observability** | Prometheus, Grafana Loki, Tempo, Mimir |
 | **Embedded** | Yocto, Rauc
