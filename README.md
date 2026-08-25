@@ -11,7 +11,7 @@ I build high-performance distributed systems, automated cloud infrastructure, an
 | :--- | :--- |
 | **Languages** | Golang, Rust, TypeScript, JavaScript |
 | **Frontend** | SolidJS / SolidStart, React, Next.js, Angular |
-| **Backend & APIs** | Node.js, Express, Gin, NestJS, gRPC, REST, SSE |
+| **Backend & APIs** | Node.js, Express, NestJS, Gin, Tokio, Monoio, Glommio, gRPC, REST, SSE |
 | **Cloud-Native & Ops** | Kubernetes, ArgoCD, Docker, Terraform, Pulumi, Crossplane, DRA-Driver/Plugin  |
 | **Networking** | nginx, CNIs, traefik, eBPF (Cilium, Tetragon), envoy, Istio, SDN |
 | **Authn** | Auth0, cidass, ory, Keycloak |
