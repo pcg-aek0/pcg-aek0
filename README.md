@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Arne Sandberg 👋
+### Software Developer & Cloud Architect
 
-<!--
-**pcg-aek0/pcg-aek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance distributed systems, automated cloud infrastructure, and robust full-stack applications. With a background spanning from low-level eBPF networking /& security and IoT edge devices to modern reactive frontends, I focus on delivering reliable, production-ready engineering solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack Highlights
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Golang, Rust, TypeScript, JavaScript |
+| **Frontend** | SolidJS / SolidStart, React, Next.js, Angular |
+| **Backend & APIs** | Node.js, Express, Gin, NestJS, gRPC, REST, SSE |
+| **Cloud-Native & Ops** | Kubernetes, ArgoCD, Docker, Terraform, Pulumi, Crossplane, DRA-Driver/Plugin  |
+| **Networking & Security** | eBPF (Cilium, Tetragon), SDN, OPA, SpiceDB, Keycloak, Ory |
+| **Data & Messaging** | PostgreSQL, CockroachDB, YugabyteDB, Kafka, NATS, MQTT, MongoDB, Redis |
+| **Observability** | Prometheus, Grafana Loki, Tempo, Mimir |
+| **Embedded** | Yocto, Rauc
+
+---
+
+### 💼 Current Focus & Highlights
+
+- 🛠 **Founder & Lead Architect @ ataex.io GmbH**: Building a high-performance platform ecosystem using **Golang, Rust, SolidJS, K3s, and Hetzner Cloud**.
+- ☁️ **Cloud Native Specialist @ Public Cloud Group**: Architecting automated infrastructure with **Kubernetes, ArgoCD, and GitLab CI**.
+- 🔐 **Security & Performance**: Deep diving into **eBPF-driven networking (Cilium)** and fine-grained authorization models (**OPA, SpiceDB**).
+
+---
+
+### 📜 Certifications & Background
+
+- 📜 **Kubernetes and Cloud Native Associate (KCNA)**
+- 📜 **Terraform using GCP - Google Cloud**
+- 🎓 **B.A. in Accounting & Controlling** (2011 – 2014) $\rightarrow$ *Engineering solutions with strong business awareness.*
+
+---
+
+### 📬 Connect with Me
+
+- 🌐 **Location:** Germany
+- 🗣 **Languages:** German (Native), English (Fluent)
+- ✉️ **Email:** [arne.sandberg@pcg.io](#) *arne.sandberg@pcg.io*
