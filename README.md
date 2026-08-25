@@ -16,7 +16,8 @@ I build high-performance distributed systems, automated cloud infrastructure, an
 | **Networking** | nginx, CNIs, traefik, eBPF (Cilium, Tetragon), envoy, Istio, SDN |
 | **Authn** | Auth0, cidass, ory, Keycloak |
 | **Authz** | OPA, SpiceDB |
-| **Data & Messaging** | PostgreSQL, CockroachDB, YugabyteDB, Kafka, NATS, MQTT, MongoDB, Redis |
+| **Databases/Storage** | PostgreSQL, MongoDB, S3, Minio, CockroachDB, Rustfs, YugabyteDB, (Redis) |
+| **Events/Messaging** | Kafka, NATS, MQTT |
 | **Observability** | Prometheus, Grafana Loki, Tempo, Mimir |
 | **Embedded** | Yocto, Rauc
 
